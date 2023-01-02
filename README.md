@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndrewMiranda21
 - 👀 I’m interested in ... Software or computer engineering
 - 🌱 I’m currently learning ... Fullstack-Developer
-- 💞️ I’m looking to collaborate on ... Frontend Webs
+- 💞️ I’m looking to collaborate on ... Frontend
 - 📫 How to reach me ... +506 60202807
 
 <!---
